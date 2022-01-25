@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ljbc1994
+- 👀 I’m interested in React, React Native, TypeScript, Blazor, C#, Remotion 💞️ 
+- 🌱 I’m currently learning Rust and all things AWS
+- 📫 How to reach me twitter at @ljbc1994
